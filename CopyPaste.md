@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>DT's Lyrics</title>
-    <link rel="icon" href="Media\Images\favicon.gif" />
-    <link rel="stylesheet" href="Styles/index_style.css" />
-  </head>
-
-  <body>
-    <header>
-      <button id="title">DT's Lyrics</button><br>
-
-      <div id="songnames">
+<div id="songnames">
         <a href="monalisa.html" target="_blank">
           <button data-text="Awesome" class="song" id="monalisa">
             <span class="actual-text">&nbsp;MonaLisa&nbsp;</span>
@@ -45,37 +33,3 @@
           </button>
         </a>
       </div>
-      <hr />
-    </header>
-
-    <main>
-      <pre>
-        <strong>
-    My first ever website to be documented (hell to be even created lol)
-    gonna be a lyrics website for my favourite songs from the new
-    Spider-Verse album. hopefully i finish it with some css and maybe even
-    javascript and some stupid backend to like login and shit
-        </strong>
-      </pre>
-    </main>
-
-    <footer>
-      <hr />
-
-      Author: Fares Wael<br />
-
-      &copy; Copyright me bithcs<br /><br />
-
-      <button id="email">
-        <span class="text"><a href="mailto: fadeabes.work@gmail.com" target="_blank">Email me!</a></span>
-      </button>
-      <br />
-
-      <div class="card">
-        <p><span>01001050759</span></p>
-        <p><span><a href="https://github.com/FaresWael24" target="_blank">Github</a></span></p>
-        <p><span><a href="Media/Images/Fares.jpg" target="_blank">ME!</a></span></p>
-    </div>
-    </footer>
-  </body>
-</html>
